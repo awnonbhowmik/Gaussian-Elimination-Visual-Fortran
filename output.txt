@@ -1,0 +1,10 @@
+ 
+ Solutions without pivoting:
+ X =    1.000001    
+ X =   -2.000001    
+ X =   -2.000001    
+ 
+ Solutions with pivoting:
+ X =    1.000001    
+ X =   -2.000001    
+ X =   -2.000001    
